@@ -9,6 +9,6 @@ public class TestScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        testText.text = testText.text + "Test 1\n";
+        testText.text = testText.text + "Test 1\n" + "Test 1.1\n";
     }
 }
